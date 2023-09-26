@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\bin\Debug\basit hesap makinesdi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\bin\Debug\basit hesap makinesdi.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\bin\Debug\basit hesap makinesdi.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit_hesap_makinesdi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit_hesap_makinesdi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\basit hesap makinesdi\basit hesap makinesdi\obj\Debug\basit hesap makinesdi.pdb
